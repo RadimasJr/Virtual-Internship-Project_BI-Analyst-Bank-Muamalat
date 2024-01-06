@@ -9,4 +9,4 @@ Programming Language: SQL
    </p>
 
 # Result Slide
-<img src="images/image0.png" width="auto" height="auto">
+<img src="images/image 0.jpg" width="auto" height="auto">
