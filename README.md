@@ -10,3 +10,4 @@ Programming Language: SQL
 
 # Result Slide
 <img src="images/image 0.jpg" width="auto" height="auto">
+<img src="images/image 1.jpg" width="auto" height="auto">
