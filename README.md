@@ -27,7 +27,7 @@ The project employs a case study featuring comprehensive transaction records of 
 7. Offering recommendations or proposals to PT Sejahtera Bersama for maintaining or boosting sales based on transactional data.
 
 # Dashboard Visualization
-[Link Dashboard Google Data Studio](https://lookerstudio.google.com/reporting/19a54801-7509-4b24-af8e-f746f647fc7c)
+[Link Dashboard Looker Studio](https://lookerstudio.google.com/reporting/19a54801-7509-4b24-af8e-f746f647fc7c)
    </p>
 
 # Result Slide
